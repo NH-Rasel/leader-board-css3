@@ -1,0 +1,47 @@
+/* ----------Font-----------*/
+body{
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+}
+/* ----------Navigation-Start--------- */
+nav{
+    display: flex;
+    background-color: #562EFF;
+    justify-content:space-between;
+}
+.logo{
+    width: 40px;
+    height: 51px;
+    padding-top: 5px;
+}
+.top-idea{
+    display: flex;
+    padding-left: 250px;
+    padding-top: 10px;
+}
+h3{
+    padding-left: 15px;
+    padding-bottom: 10px;
+    color: white;
+}
+a{
+    size: 24px;
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.top-nav{
+    display: flex;
+    padding-right: 200px;
+}
+.top-content{
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.profile{
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+/* --------------Navigation-End----------- */
+
